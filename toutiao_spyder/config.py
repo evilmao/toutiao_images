@@ -10,4 +10,4 @@ MONGO_TABLE = 'toutiao'
 GROUP_START = 1 #定义起始页
 GROUP_END = 20  #定义offset终止页
 
-KEYWORD = '街拍' #
+KEYWORD = '街拍' #关键字参数
